@@ -62,7 +62,7 @@ resultados = calcular_experiencia(2, 5)
 print(f"{resultados} años de experiencia acumulada")
 
 def mostrar_programador(programador):
-    return f"{programador['nombre']} tiene {programador['experiencia']}  años de experiencia"
+    return f"{programador['nombre']} usa {programador['lenguaje']} y tiene {programador['experiencia']} años de experiencia"
 
 for programador in programadores:
     print(mostrar_programador(programador))
