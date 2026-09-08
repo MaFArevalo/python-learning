@@ -1,0 +1,4 @@
+Nombre: Florencia
+Lenguaje: Python
+objetivo: ia engineer
+experiencia: 2 años
